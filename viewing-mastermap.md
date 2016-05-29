@@ -52,19 +52,21 @@ This will open all the tables in QGIS
 
 ![alt text](http://aileenh.github.io/images/image25.JPG "mastermap in QGIS")
 
-If you want to see it like this
+If you want to see it like this there are additional steps required.
 
 ![alt text](http://aileenh.github.io/images/image26.JPG "mastermap in QGIS")
 
-or in the OS MasterMap backdrop style there are additional steps required. Full details can be found in the [Ordnancy Survey OS MasterMap Topography Layer SQL & stylesheets repository](https://github.com/OrdnanceSurvey/OSMM-Topography-Layer-stylesheets).
+Full details can be found in the [Ordnancy Survey OS MasterMap Topography Layer SQL & stylesheets repository](https://github.com/OrdnanceSurvey/OSMM-Topography-Layer-stylesheets).
 
-For this workshop I have included 
-* Script to create the necessary tables called os_style_scripts.sql which you can run in PgAdmin 
-* QGIS Project file (mastermap.qgs). 
+However I have created some simple steps for you based upon hte above. 
 
-You also need to add the fonts (OSMasterMap.ttf) to your system and the folder osmmsymbols into the QGIS SVG directory (C:\usbgis\apps\qgis2\apps\qgis\svg)
+* Add the OSMasterMap.ttf font (in the sample data) to your system 
+* Copy the folder osmmsymbols into the QGIS SVG directory (C:\usbgis\apps\qgis2\apps\qgis\svg)
+* Run the script os_stylrs_scripts.sql using PgAdmin
 
-# [Loading Other Datasets](http://aileenh.github.io/loading-other-datasets.html) #
+Once you have done that you can use the QGIS Project file supplied (mastermap.qgs). 
+
+# [Loading other datasets](http://aileenh.github.io/loading-other-datasets.html) #
 
 
 
