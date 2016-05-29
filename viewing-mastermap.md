@@ -18,4 +18,10 @@ If you expand the node for each table you will see all their columns. The also h
 
 ![alt text](http://aileenh.github.io/images/image16.JPG "Mastermap tables in PostgreSQL")
 
-You can also view some of the data by 
+You can also view the data by right clicking on the table and selecting view data.
+
+![alt text](http://aileenh.github.io/images/image17.JPG "view data in postgreSQL")
+
+you will see something like this
+
+![alt text](http://aileenh.github.io/images/image18.JPG "view data in PostgreSQL")
