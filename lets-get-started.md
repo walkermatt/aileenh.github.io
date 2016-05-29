@@ -12,7 +12,7 @@ title: Let's get started
 
 ## Start PostgreSQL ##
 
-(http://aileenh.github.io/images/image1.JPG)
+![alt text][(http://aileenh.github.io/images/image1.JPG "screen shot")
 
 ## Run PgAdmin III ##
 
