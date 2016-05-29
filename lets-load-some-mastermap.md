@@ -11,7 +11,7 @@ First of all check we have some data in our loader scr_dir (c:\temp\loader\src_d
 
 ## Run Loader ##
 
-On the Desktop Module tab of the Portable GIS click on the 'Run Loader' button.
+On the 'Desktop Module' tab of the Portable GIS click on the 'Run Loader' button.
 
 ![alt text](http://aileenh.github.io/images/image4.JPG "Run Loader")
 
