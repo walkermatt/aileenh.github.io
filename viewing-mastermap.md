@@ -10,7 +10,7 @@ We can view the data in both PostgreSQL and visualise it in QGIS.
 
 Launch PostgreSQL from PortableGIS and connect to the test database.
 
-Expand the osmm_topo schema and click on the tables node you will see the following. (you may need to click on the fresh button if you can't see the tables)
+Expand the osmm_topo schema and click on the tables node you will see the following. (You may need to click on the fresh button if you can't see all the tables.)
 
 ![alt text](http://aileenh.github.io/images/image15.JPG "Mastermap tables in PostgreSQL")
 
