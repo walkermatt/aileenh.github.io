@@ -27,7 +27,7 @@ You will see the following window appear. Do not dismiss the window, leave it ru
 ![alt text](http://aileenh.github.io/images/image5.JPG "Starting Postgrsql")
 
 ## Run PgAdmin III ##
-Click on the 'Desktop Module' and click on the PgAdmin III button. 
+Click on the 'Desktop Module' tab and click on the PgAdmin III button. 
 
 ![alt text](http://aileenh.github.io/images/image4.JPG "Running PgAdmin")
 
@@ -92,7 +92,9 @@ In this workshop we will detail the configuration setting for loading OS MasterM
 
 First we need to create the src_dir, out_dir and temp_dir. These can be any directory on your device e.g. c:\temp\loader\src_dir, c:\temp\loader\out_dir and c:\temp\loader\temp_dir
 
-Now we need to edit the config file. On the Desktop Module tab of the Portable GIS click on the 'Edit Config' button.
+Now we need to edit the config file. 
+
+On the Desktop Module tab of the Portable GIS click on the 'Edit Config' button.
 
 ![alt text](http://aileenh.github.io/images/image4.JPG "Edit Loader Config")
 
