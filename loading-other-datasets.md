@@ -8,9 +8,9 @@ Loading other data sets follows exactly the same method.
 
 ## VectorMap District ##
 
-To load VectorMap District you need to specify a suitable prep_cmd to prepare the GML for loading and a corresponding gfs file:
+To load VectorMap District you need to specify a suitable prep_cmd to prepare the GML for loading and a corresponding gfs file.
 
-Use the basic GML preparation routine
+Use the VMD GML preparation routine
 <br>
 prep_cmd=python prepgml4ogr.py $file_path prep_osgml.prep_vmd
 
