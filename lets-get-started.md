@@ -112,5 +112,14 @@ The active_schema is where we wish to load the data into i.e. osmm_topo
 prep_cmd=python prepgml4ogr.py $file_path prep_osgml.prep_osmm_topo
 
 **gfs_file**
+
 gfs_file=../gfs/osmm_topo_postgres.gfs
+
+
+You can leave debug to be False but if you run into problems you can set it to true to help identify where the problem is.
+
+Save your changed and exit the editor.
+
+Now we have everything set up 
+#[Let's load some Mastermap]()#
 
