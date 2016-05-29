@@ -22,7 +22,7 @@ Obviously in a productions environment you would probably not use the Portable G
 You can download and install PostgreSQL and PostGIS from [EnterpriseDB](http://www.enterprisedb.com/products-services-training/pgdownload#windows).
 
 # Data #
-For this workshop I have package up a small sample of data to be used which can be downloaded from here.
+For this workshop I have package up a small sample of data to be used which can be downloaded from [here](https://my.pcloud.com/publink/show?code=XZi3VbZ88KyhH4PqaFYGzyY7xRyxh8xn3My).
 
 If you are going to repeat this workshop at home or work I would recommend you download bigger sample data sets for the OS website.
 
