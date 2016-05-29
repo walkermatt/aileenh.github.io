@@ -36,7 +36,7 @@ Double click on the portable gis server to connect to it.
 
 ![alt text](http://aileenh.github.io/images/image10.JPG "Connect to test database")
 
-You will notice there are three databases in the Portable GIS server. We are going ot use the test database as it already has the PostGIS extension added to it. 
+You will notice there are three databases in the portable gis server. We are going ot use the test database as it already has the PostGIS extension added to it. 
 
 ![alt text](http://aileenh.github.io/images/image11.JPG "Connect to test database")
 
@@ -44,7 +44,7 @@ So double click on the test database to expand it.
 
 ![alt text](http://aileenh.github.io/images/image6.JPG "Connect to test database")
 
-You will notice that postgis is listed in the extension for that database.
+You will notice that PostGis is listed in the extensions for that database.
 
 ## Create schema to load data into ##
 Right click on the schemas node and select New Schema...
@@ -131,5 +131,5 @@ Save your changed and exit the editor.
 
 Now we have everything set up
 
-# [Let's Load Some MasterMap](http://aileenh.github.io/lets-load-some-mastermap.html) #
+## [Let's load some MasterMap](http://aileenh.github.io/lets-load-some-mastermap.html) ##
 
