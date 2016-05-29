@@ -9,13 +9,12 @@ title: Let's get started
 # Setting up Environment #
 
 ## Run Portable GIS ##
+![alt text](http://aileenh.github.io/images/image1.JPG "Portable GIS screen shop")
 
 ## Start PostgreSQL ##
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](http://aileenh.github.io/images/image2.JPG "Portable GIS screen shop")
 
-![alt text](http://aileenh.github.io/images/image1.JPG "Logo Title Text 1")
-![alt text][(http://aileenh.github.io/images/image1.JPG "screen shot")
 
 ## Run PgAdmin III ##
 
