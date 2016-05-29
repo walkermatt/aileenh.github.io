@@ -8,7 +8,7 @@ We can view the data in both PostgreSQL and visualise it in QGIS.
 
 ## PostgreSQL ##
 
-Launch PostgreSQL from PortableGIS and connect to the test database.
+Launch PostgreSQL from the Portable GIS control panel and connect to the test database.
 
 Expand the osmm_topo schema and click on the tables node you will see the following. (You may need to click on the fresh button if you can't see all the tables.)
 
