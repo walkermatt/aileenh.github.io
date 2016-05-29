@@ -28,10 +28,12 @@ Whilst loaders is running it will display messages on its progress and in the ev
 
 ![alt text](http://aileenh.github.io/images/image14.JPG "Loader run")
 
-# Vieweing the Data in PostgreSQL #
+Your data is now loaded
+
+# [Vieweing the Data in PostgreSQL}() #
 
 
-![alt text](http://aileenh.github.io/images/image15.JPG "Run Loader")
+
 
 
 
