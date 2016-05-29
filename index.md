@@ -17,9 +17,11 @@ This workshop is a simple introduction to using Loader to load OS MasterMap Topo
 # Prerequisites #
 For this workshop we are going to use the [Portable GIS](http://www.archaeogeek.com/portable-gis.html) for convenience as it has everything we need in one simple install.
 
-Obviously in a productions environment you would probably not use the Portable GIS, in which case see the [Loader Installation Documentation](https://github.com/AstunTechnology/Loader/wiki/Installation).
+Obviously in a production environment you would not use the Portable GIS, in which case see the [Loader Installation Documentation](https://github.com/AstunTechnology/Loader/wiki/Installation) on how ot install Loader.
 
-You can download and install PostgreSQL and PostGIS from [EnterpriseDB](http://www.enterprisedb.com/products-services-training/pgdownload#windows).
+You can download and install PostgreSQL from [EnterpriseDB](http://www.enterprisedb.com/products-services-training/pgdownload#windows).
+
+Once you have installed PostgreSQL you cna install PostGIS using Stack Builder.
 
 # Data #
 For this workshop I have package up a small sample of data to be used which can be downloaded from [here](https://my.pcloud.com/publink/show?code=XZi3VbZ88KyhH4PqaFYGzyY7xRyxh8xn3My).
