@@ -64,7 +64,7 @@ For this workshop I have included
 
 You also need to add the fonts (OSMasterMap.ttf) to your system and the folder osmmsymbols into the QGIS SVG directory (C:\usbgis\apps\qgis2\apps\qgis\svg)
 
-# [Loading Other Datasets]() #
+# [Loading Other Datasets](http://aileenh.github.io/loading-other-data-sets.html) #
 
 
 
