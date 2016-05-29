@@ -94,7 +94,7 @@ First we need to create the src_dir, out_dir and temp_dir. These can be any dire
 
 Now we need to edit the config file. 
 
-On the Desktop Module tab of the Portable GIS click on the 'Edit Config' button.
+On the 'Desktop Module' tab of the Portable GIS control panel, click on the 'Edit Config' button.
 
 ![alt text](http://aileenh.github.io/images/image4.JPG "Edit Loader Config")
 
