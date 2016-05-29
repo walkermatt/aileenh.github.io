@@ -73,7 +73,7 @@ The directory used to store the translated data if writing to a file based forma
 
 Once you have a configuration file set up for a specific data source you can save it and use it again and again.
 
-You will find in the loader repository there are a number of different grf and prep_cmd file for different datasources. The Loader wiki also has a section on [configuration examples](https://github.com/AstunTechnology/Loader/wiki/Configuration-examples).
+You will find in the loader repository there are a number of different gfs and prep_cmd file for different data types. The Loader wiki also has a section on [configuration examples](https://github.com/AstunTechnology/Loader/wiki/Configuration-examples).
 
 In this workshop we will detail the configuration setting for loading OS MasterMap topographic layer in a PostgreSQL database.
 
@@ -83,4 +83,20 @@ Now we need to edit the config file. On the Desktop Module tab of the Portable G
 
 ![alt text](http://aileenh.github.io/images/image4.JPG "Edit Loader Config")
 
-THis will fire up 
+This will fire up a text editor.
+
+Edit the configuration items as follows:
+
+**src_dir**
+
+scr_dir=c:\temp\loader\in_dir
+
+**out_dir**
+
+out_dir=c:\temp\loader\out_dir
+
+**tmp_dir**
+
+tmp_dir=c:\temp\loader\temp_dir
+
+
