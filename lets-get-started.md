@@ -82,7 +82,7 @@ An optional command to be run once OGR has created it's output. Called once per 
 
 Once you have a configuration file set up for a specific data source you can save it and use it again and again.
 
-You will find in the loader repository there are a number of different gfs and prep_cmd file for different data types. The Loader wiki also has a section on [configuration examples](https://github.com/AstunTechnology/Loader/wiki/Configuration-examples).
+You will find there are a number of different gfs and prep_cmd file for different data types in the loader repository. The Loader wiki also has a section on [configuration examples](https://github.com/AstunTechnology/Loader/wiki/Configuration-examples).
 
 In this workshop we will detail the configuration setting for loading OS MasterMap topographic layer in a PostgreSQL database.
 
