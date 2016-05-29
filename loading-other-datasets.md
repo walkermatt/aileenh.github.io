@@ -2,7 +2,7 @@
 layout: default
 title: Load Other Datasets
 --- 
-# Loading Other Data sets #
+# Loading Other Data Sets #
 
 Loading other data sets follows exactly the same method.
 
@@ -23,5 +23,7 @@ Remember to create a suitable schema in the database (e.g. vmd) and edit the ogr
 If you are using the same src_dir remember to remove the mastermap data from the folder and copy the new data into the folder.
 
 There is a small sample of VectorMap District data in the sample data supplied.
+
+## Other Data Sets ##
 
 For more configuration examples see [Configuration examples](https://github.com/AstunTechnology/Loader/wiki/Configuration-examples)
