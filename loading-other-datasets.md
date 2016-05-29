@@ -22,4 +22,4 @@ If you are using the same src_dir remember to remove the mastermap data from the
 
 There is a small sample of VectorMap District data in the sample data supplied.
 
-For more configuration examples see[(Configuration examples](https://github.com/AstunTechnology/Loader/wiki/Configuration-examples)
+For more configuration examples see [Configuration examples](https://github.com/AstunTechnology/Loader/wiki/Configuration-examples)
