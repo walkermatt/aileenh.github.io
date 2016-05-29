@@ -27,9 +27,9 @@ Whilst loaders is running it will display messages on its progress and in the ev
 
 ![alt text](http://aileenh.github.io/images/image14.JPG "Loader run")
 
-Your data is now loaded
+Your data is now loaded!
 
-# [Vieweing the Data](http://aileenh.github.io/viewing-mastermap.html)) #
+# [Viewing the Data](http://aileenh.github.io/viewing-mastermap.html) #
 
 
 
