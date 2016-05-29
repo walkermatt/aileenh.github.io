@@ -5,7 +5,7 @@ title: Using Loader
 
 ## FOS4GUK Workshop: Using Loader ##
 
-The aim of this workshop is a simple intrudcution on how to use Laoder to load OS MasterMap into a PostGIS database.
+The aim of this workshop is a simple introduction on how to use Laoder to load OS MasterMap (an other OS data) into a PostGIS database.
 
 ##Useful Links##
 
