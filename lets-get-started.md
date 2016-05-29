@@ -4,17 +4,17 @@ layout: default
 title: Let's get started
 ---
 
-## [Overview of Loader] (https://github.com/AstunTechnology/Loader/blob/master/readme.md) ##
+# [Overview of Loader] (https://github.com/AstunTechnology/Loader/blob/master/readme.md) #
 
-## Setting up Environment ##
+# Setting up Environment #
 
-# Run Portable GIS #
+## Run Portable GIS ##
 
-# Start PostgreSQL #
+## Start PostgreSQL ##
 
-# Run PgAdmin III #
+## Run PgAdmin III ##
 
-# Create schema to load data into #
+## Create schema to load data into ##
 
-# Edit loader config file #
+## Edit loader config file ##
 
