@@ -3,7 +3,7 @@ layout: default
 title: Using Loader
 --- 
 
-# FOSS4GUK Workshop: Loading OS MasterMap into PostGIS Using Loader #
+# Loading OS MasterMap into PostGIS Using Loader #
 This workshop is a simple introduction to using Loader to load OS MasterMap Topography Layer and other OS OpenData(TM) datasets into PostGIS.
 
 # Useful Links #
