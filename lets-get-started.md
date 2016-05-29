@@ -61,9 +61,9 @@ So now we have the database schema to load the data into we need to edit the con
 
 There are only 7 configuration items for loader. 
 
-### src_dir ###
+* **src_dir**:
 The directory containing your source files or an individual file. All supported files in the specified directory and it's descendants will be loaded.
-### out_dir ### 
+* **out_dir**:
 The directory used to store the translated data if writing to a file based format such as ESRI Shape, MapInfo TAB etc.
 * **temp_dir**: The directory used to store temporary working files during loading.
 * **ogr_cmd**: The ogr2ogr command that will be used to load the data. Here you can specify the destination format and any associated settings (for example database connection details if you are writing to PostGIS).
