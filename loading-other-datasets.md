@@ -11,9 +11,11 @@ Loading other data sets follows exactly the same method.
 To load VectorMap District you need to specify a suitable prep_cmd to prepare the GML for loading and a corresponding gfs file:
 
 Use the basic GML preparation routine
+<br>
 prep_cmd=python prepgml4ogr.py $file_path prep_osgml.prep_vmd
 
 Use the specific VML gfs file tailored to loading into PostgreSQL
+<br>
 gfs_file=../gfs/vmd_postgres.gfs
 
 Remember to create a suitable schema in the database (e.g. vmd) and edit the ogr_cmd to load into that schema e.g. active_scheam=vmd
