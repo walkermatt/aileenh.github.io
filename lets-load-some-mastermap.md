@@ -7,7 +7,7 @@ title: Let's Load Some Mastermap
 
 ## Copy the data to the src_dir directory ##
 
-First of all check we have some data in our loader in_dir (c:\temp\loader\src_dir). Copy the file 58116-SX9192-2c1.gz into the directory.
+First of all check we have some data in our loader scr_dir (c:\temp\loader\src_dir). Copy the file data/mastermap/data/58116-SX9192-2c1.gz into this directory.
 
 ## Run Loader ##
 
@@ -29,7 +29,7 @@ Whilst loaders is running it will display messages on its progress and in the ev
 
 Your data is now loaded!
 
-# [Let's View the Data](http://aileenh.github.io/viewing-mastermap.html) #
+## [Let's view the Data](http://aileenh.github.io/viewing-mastermap.html) ##
 
 
 
