@@ -3,13 +3,6 @@
 layout: default
 title: Let's get started
 ---
-
-# Overview of Loader #
-
-A GML and KML loader written in Python that makes use of OGR 1.9. Source data can be in GML or KML format (including compressed files in GZ or ZIP format) and can be output to any of the formats supported by OGR. The source data can be prepared using a simple Python to both make it suitable for loading with OGR (useful with complex feature types) or to add value by deriving attributes.
-
-Loader was originally written to load Ordnance Survey OS MasterMap Topographic Layer data in GML/GZ format but has since been extended to load other GML and KML data.
-
 # Setting Up the Environment #
 
 ## Run Portable GIS ##
