@@ -66,7 +66,7 @@ However I have created some simple steps for you.
 
 Once you have done that you can use the QGIS Project file supplied (mastermap.qgs). 
 
-# [Loading other datasets](http://aileenh.github.io/loading-other-datasets.html) #
+## [Loading other datasets](http://aileenh.github.io/loading-other-datasets.html) ##
 
 
 
