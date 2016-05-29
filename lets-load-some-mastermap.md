@@ -29,7 +29,7 @@ Whilst loaders is running it will display messages on its progress and in the ev
 
 Your data is now loaded!
 
-## [Let's view the Data](http://aileenh.github.io/viewing-mastermap.html) ##
+## [Let's view the data](http://aileenh.github.io/viewing-mastermap.html) ##
 
 
 
