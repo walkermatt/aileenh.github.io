@@ -28,7 +28,7 @@ You will see the following window appear. Do not dismiss the window, leave it ru
 
 ![alt text](http://aileenh.github.io/images/image9.JPG "Running PgAdmin")
 
-## Connect to Test Database ##
+## Connect to the Test Database ##
 Double click on the portable gis server to connect to it.
 
 ![alt text](http://aileenh.github.io/images/image10.JPG "Connect to test database")
