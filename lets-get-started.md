@@ -130,5 +130,5 @@ You can leave debug to be False but if you run into problems you can set it to t
 Save your changed and exit the editor.
 
 Now we have everything set up 
-#[Let's Load Some MasterMap](http://aileenh.github.io/lets-load-some-mastermap.html)#
+# [Let's Load Some MasterMap](http://aileenh.github.io/lets-load-some-mastermap.html) #
 
