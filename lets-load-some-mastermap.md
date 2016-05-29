@@ -5,7 +5,7 @@ title: Let's Load Some Mastermap
 
 # Let's Load Some MasterMap #
 
-## Copy the data to the in direxctory ##
+## Copy the data to the src_dir directory ##
 
 First of all check we have some data in our loader in_dir (c:\temp\loader\src_dir). Copy the file 58116-SX9192-2c1.gz into the directory.
 
