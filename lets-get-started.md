@@ -59,21 +59,15 @@ Enter the name of the schema in the name text box and then click on the OK butto
 ## Edit loader config file ##
 So now we have the database schema to load the data into we need to edit the configuration file for Loader. 
 
-There are 7 configuration items when you need to use loader. 
-*`src_dir`
- The directory containing your source files or an individual file. All supported files in the specified directory and it's descendants will be loaded.
-* `out_dir`
- The directory used to store the translated data if writing to a file based format such as ESRI Shape, MapInfo TAB etc.
-* `tmp_dir`
- The directory used to store temporary working files during loading.
-* `ogr_cmd`
- The ogr2ogr command that will be used to load the data. Here you can specify the destination format and any associated settings (for example database connection details if you are writing to PostGIS).
-* `prep_cmd`
- The command used to prepare the source data so it is suitable for loading with OGR, choose one that is suitable for your source data such as prep_osgml.prep_osmm_topo for OS MasterMap Topo.
-* `post_cmd`
- An optional command to be run once OGR has created it's output. Called once per file, useful for loading SQL dump files etc.
-* `gfs_file`
- OGR .gfs file used to define the feature attributes and geometry type of the features read from the GML again choose a suitable gfs file for your source data such as ../gfs/osmm_topo_postgres.gfs for loading OS MasterMap Topo into PostgreSQL.
+There are only 7 configuration items for loader. 
+
+* `src_dir`: The directory containing your source files or an individual file. All supported files in the specified directory and it's descendants will be loaded.
+* `out_dir`: The directory used to store the translated data if writing to a file based format such as ESRI Shape, MapInfo TAB etc.
+* `tmp_dir`: The directory used to store temporary working files during loading.
+* `ogr_cmd`: The ogr2ogr command that will be used to load the data. Here you can specify the destination format and any associated settings (for example database connection details if you are writing to PostGIS).
+* `prep_cmd`: The command used to prepare the source data so it is suitable for loading with OGR, choose one that is suitable for your source data such as prep_osgml.prep_osmm_topo for OS MasterMap Topo.
+* `post_cmd`: An optional command to be run once OGR has created it's output. Called once per file, useful for loading SQL dump files etc.
+* `gfs_file`: OGR .gfs file used to define the feature attributes and geometry type of the features read from the GML again choose a suitable gfs file for your source data such as ../gfs/osmm_topo_postgres.gfs for loading OS MasterMap Topo into PostgreSQL.
 
 Once you have a configuration file set up for a specific data source you can save it and use it again and again.
 
