@@ -79,7 +79,7 @@ In this workshop we will detail the configuration setting for loading OS MasterM
 
 First we need to create the in_dir, out_dir and temp_dir. These can be any directory on your device e.g. c:\temp\loader\in_dir, c:\temp\loader\out_dir and c:\temp\loader\temp_dir
 
-Now we need to edit the config file. On the Desktop Module tab of the Portable GIS click on the 'Edit Config' button in the Loader Group.
+Now we need to edit the config file. On the Desktop Module tab of the Portable GIS click on the 'Edit Config' button.
 
 ![alt text](http://aileenh.github.io/images/image4.JPG "Edit Loader Config")
 
