@@ -30,7 +30,7 @@ Whilst loaders is running it will display messages on its progress and in the ev
 
 Your data is now loaded
 
-# [Vieweing the Data in PostgreSQL}() #
+# [Vieweing the Data](http://aileenh.github.io/viewing-mastermap.html)) #
 
 
 
