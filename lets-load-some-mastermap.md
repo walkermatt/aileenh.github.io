@@ -14,11 +14,11 @@ First of all check we have some data in our loader in_dir (c:\temp\loader\in_dir
 
 On the Desktop Module tab of the Portable GIS click on the 'Run Loader' button.
 
-![alt text](http://aileenh.github.io/images/image5.JPG "Run Loader")
+![alt text](http://aileenh.github.io/images/image4.JPG "Run Loader")
 
-This will launch as dos window 
+This will launch a dos window 
 
-![alt text](http://aileenh.github.io/images/image5.JPG "Run Loader")
+![alt text](http://aileenh.github.io/images/image12.JPG "Run Loader")
 
 
 
