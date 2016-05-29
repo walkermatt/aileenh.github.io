@@ -12,7 +12,7 @@ title: Let's get started
 
 ## Start PostgreSQL ##
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+(http://aileenh.github.io/images/image1.JPG)
 
 ## Run PgAdmin III ##
 
