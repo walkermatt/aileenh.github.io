@@ -7,7 +7,7 @@ title: Let's Load Some Mastermap
 
 ## Copy the data to the src_dir directory ##
 
-First of all check we have some data in our loader scr_dir (c:\temp\loader\src_dir). Copy the file data/mastermap/data/58116-SX9192-2c1.gz into this directory.
+First of all check we have some data in our loader scr_dir (c:\temp\loader\src_dir). Copy the file data\mastermap\data\58116-SX9192-2c1.gz into this directory.
 
 ## Run Loader ##
 
