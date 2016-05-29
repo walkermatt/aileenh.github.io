@@ -27,7 +27,7 @@ For this workshop I have package up a small sample of data to be used which can 
 If you are going to repeat this workshop at home or work I woudl recommend you download bigger sample data sets for the OS website.
 
 [OS MasterMap, VectorMap Local, AddressBase etc] (https://www.ordnancesurvey.co.uk/business-and-government/licensing/sample-data/discover-data.html)
+
 [OS OpenData(TM)] (https://www.ordnancesurvey.co.uk/opendatadownload/products.html)
-[OS
 
 
