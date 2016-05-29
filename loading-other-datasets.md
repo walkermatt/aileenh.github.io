@@ -2,9 +2,9 @@
 layout: default
 title: Load Other Datasets
 --- 
-# Loading Other Datasets #
+# Loading Other Data sets #
 
-Loading othere datasets follows exactly the same method.
+Loading other data sets follows exactly the same method.
 
 ## VectorMap District ##
 
