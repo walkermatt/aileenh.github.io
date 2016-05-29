@@ -58,9 +58,9 @@ If you want to see it like this there are additional steps required.
 
 Full details can be found in the [Ordnancy Survey OS MasterMap Topography Layer SQL & stylesheets repository](https://github.com/OrdnanceSurvey/OSMM-Topography-Layer-stylesheets).
 
-However I have created some simple steps for you based upon hte above. 
+However I have created some simple steps for you. 
 
-* Add the OSMasterMap.ttf font (in the sample data) to your system 
+* Add the OSMasterMap.ttf font to your system 
 * Copy the folder osmmsymbols into the QGIS SVG directory (C:\usbgis\apps\qgis2\apps\qgis\svg)
 * Run the script os_stylrs_scripts.sql using PgAdmin
 
