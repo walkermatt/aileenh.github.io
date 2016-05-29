@@ -116,9 +116,9 @@ tmp_dir=c:\temp\loader\temp_dir
 
 **ogr_cmd**
 
-ogr_cmd=ogr2ogr --config GML_EXPOSE_FID NO -append -skipfailures -f PostgreSQL PG:'dbname=demo active_schema=osmm_topo host=127.0.0.1 port=5434 user=pgis password=pgis' $file_path
+ogr_cmd=ogr2ogr --config GML_EXPOSE_FID NO -append -skipfailures -f PostgreSQL PG:'dbname=temp active_schema=osmm_topo host=127.0.0.1 port=5434 user=pgis password=pgis' $file_path
 
-Becasue we are using the portable gis we need to specify the host and port for the database. We are connecting to the database using the default database superuser for the portable gis which is pgis (with password pgis)
+Because we are using the Portable GIS we need to specify the host and port for the database. We are connecting to the database using the default database superuser for the portable gis which is pgis (with password pgis). 
 
 The active_schema is where we wish to load the data into i.e. osmm_topo
 
