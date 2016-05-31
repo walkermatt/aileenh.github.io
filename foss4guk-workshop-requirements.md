@@ -11,6 +11,8 @@ However it might be useful for you to download the necessary software before the
 OSGEO-live can be downlaoded [here](https://live.osgeo.org/en/index.html) and Portable GIS can be downloaded [here](http://www.archaeogeek.com/portable-gis.html). <br>
 Some sessions require additional software and data which you will need to download and install on your device before the session. See details of what is requried for each workshop. <br>
 
+- - -
+
 ## Making Maps in R ##
 
 #### Barry Rowlingson Medical School, Lancaster University ####
@@ -23,6 +25,7 @@ Some sessions require additional software and data which you will need to downlo
 
 Requires R v3.x which could come from OSGeo Live or elsewhere. Plus a number of addon packages to be listed later. Bring Your Own Data. Please see http://barryrowlingson.github.io/r-mapping-2016/
 
+- - -
 
 ## Introduction to GeoServer ##
 
