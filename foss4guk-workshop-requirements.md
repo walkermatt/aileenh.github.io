@@ -11,6 +11,21 @@ Workshop (half day) / Target Audience: R users from beginner level up
 
 The R statistical software system now has, alongside its GIS functions, lots of add-on packages for making maps - perhaps too many, with overlapping functionality and varying syntax. This workshop will be in three parts: first, I’ll introduce as many of the mapping packages as I can, then you will have time to play with them, and finally we’ll discuss the pros and cons of them all, to see if a single perfect mapping package could be derived or synthesized from the ones available. The session will cover web mapping as well as static and animated maps produced directly in R.
 
+# Introduction to GeoServer #
+
+Ian Turton Astun Technology
+
+Workshop (2 hours) / Target Audience: Novices
+
+This workshop will cover how to install a local copy of GeoServer and take you through the steps required to produce your first web map. We will take a selection of Ordnance Survey OpenData (tm) and the provided SLD styles and produce a pretty map that you can use as a base map at home.
+
+# Loading OS MasterMap, OS OpenData and other OS GML datasets using Loader #
+
+Aileen Heal Astun Technology / Matt Walker Astun Technology
+
+Workshop (2 hours) / Target Audience: People interested in loading OS datasets into PostgreSQL.
+
+A workshop going through how to use loader to load OS MasterMap, OS OpenData and other OS GML datasets into PostgreSQL/PostGIS. The workshop will use the portable GIS.
 # Making Pretty Web Maps #
 
 # qgis2web: webmaps without code #
