@@ -23,7 +23,7 @@ Some sessions require additional software and data which you will need to downlo
 
 #### Software/Hardware Requirements ####
 
-Requires R v3.x which could come from OSGeo Live or elsewhere. Plus a number of addon packages to be listed later. Bring Your Own Data. Please see (http://barryrowlingson.github.io/r-mapping-2016/)
+Requires R v3.x which could come from OSGeo Live or elsewhere. Plus a number of addon packages to be listed later. Bring Your Own Data. For more info lease see [http://barryrowlingson.github.io/r-mapping-2016/](http://barryrowlingson.github.io/r-mapping-2016/)
 
 - - -
 
