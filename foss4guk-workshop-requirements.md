@@ -9,7 +9,7 @@ If you are attending one of the workshops you are required to bring your own dev
 We will provide copies of OSGEO-Live on DVD and Portable GIS on USB drives for you to use at the session if required (please see details below). OSGEO-Live includes a copy of QGIS 2.14<br>
 However it might be useful for you to download the necessary software before the workshops and install them on your device. <br>
 OSGEO-live can be downloaded [here](https://live.osgeo.org/en/index.html) and Portable GIS can be downloaded [here](http://www.archaeogeek.com/portable-gis.html). <br>
-Some sessions require additional software and data which you will need to download and install on your device before the session. See details of what is requried for each workshop. <br>
+Some sessions require additional software and data which you will need to download and install on your device before the session. See details of what is required for each workshop. <br>
 
 - - -
 
@@ -23,7 +23,7 @@ Some sessions require additional software and data which you will need to downlo
 
 #### Software/Hardware Requirements ####
 
-Requires R v3.x which could come from OSGeo-Live or elsewhere. Plus a number of add-on packages to be listed later. Bring Your Own Data. For more info lease see [http://barryrowlingson.github.io/r-mapping-2016/](http://barryrowlingson.github.io/r-mapping-2016/)
+Requires R v3.x which could come from OSGeo-Live or elsewhere. Plus a number of add-on packages to be listed later. Bring Your Own Data. For more info please see [http://barryrowlingson.github.io/r-mapping-2016/](http://barryrowlingson.github.io/r-mapping-2016/)
 
 - - -
 
