@@ -6,7 +6,7 @@ title: FOSS4GUK Workshop Requirements
 # FOS4GUK Workshop Requirements #
 
 If you are attending one of the workshops you are required to bring your own device. <br>
-We will provide copies of OSGEO-Live and Portable GIS on USB drives for you to use at the session if required (please see details below). OSGEO-Live includes a copy of QGIS 2.14<br>
+We will provide copies of OSGEO-Live on DVD and Portable GIS on USB drives for you to use at the session if required (please see details below). OSGEO-Live includes a copy of QGIS 2.14<br>
 However it might be useful for you to download the necessary software before the workshops and install them on your device. <br>
 OSGEO-live can be downloaded [here](https://live.osgeo.org/en/index.html) and Portable GIS can be downloaded [here](http://www.archaeogeek.com/portable-gis.html). <br>
 Some sessions require additional software and data which you will need to download and install on your device before the session. See details of what is requried for each workshop. <br>
