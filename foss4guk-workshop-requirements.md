@@ -3,9 +3,9 @@ layout: workshops
 title: FOSS4GUK Workshop Requirements
 ---
 
-# Making Maps in R #
+## Making Maps in R ##
 
-## Barry Rowlingson Medical School, Lancaster University ##
+### Barry Rowlingson Medical School, Lancaster University ###
 
 ### Workshop (half day) / Target Audience: R users from beginner level up ###
 
