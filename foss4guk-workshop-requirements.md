@@ -3,7 +3,12 @@ layout: workshops
 title: FOSS4GUK Workshop Requirements
 ---
 
-# FOS4GUK Workshop Software/Hardware/Data Requirements #
+# FOS4GUK Workshop Requirements #
+
+If you uare attending one of the workshops you are required to bring your own device. 
+We will provide copies of OSGEO-Live and Portable GIS on USB drives for you to use at the session if required (pease see details below). OSGEO-Live includes a copy of QGIS 2.14<br>
+However it might be useful for you to download these before the workshops and install them on your device. OSGEO-live can be downlaoder [here](https://live.osgeo.org/en/index.html) and Portable GIS can be downloader [here](http://www.archaeogeek.com/portable-gis.html). <br>
+Some sessions require additional software and data which you will need to download and install on your device before the session. See details of what is requried for each workshop. <br>
 
 ## Making Maps in R ##
 
@@ -14,6 +19,7 @@ title: FOSS4GUK Workshop Requirements
 ### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#making-maps-in-r) ###
 
 ### Software/Hardware Requirements ###
+Requires R v3.x which could come from OSGeo Live or elsewhere. Plus a number of addon packages to be listed later. Bring Your Own Data. Please see http://barryrowlingson.github.io/r-mapping-2016/
 
 
 ## Introduction to GeoServer ##
@@ -25,6 +31,8 @@ title: FOSS4GUK Workshop Requirements
 ### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#introduction-to-geoserver) ###
 
 ### Software/Hardware Requirements ###
+Ian will provide download pack on the Astun ftp site for atendees, liveDVD can be used if you have virtual box installed.
+
 
 
 ## Turning data into information using Open Source tools ##
@@ -36,6 +44,8 @@ title: FOSS4GUK Workshop Requirements
 ### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#turning-data-into-information-using-open-source-tools) ###
 
 ### Software/Hardware Requirements ###
+QGIS 2.14, NodeJS
+
 
 ## Loading OS MasterMap, OS OpenData and other OS GML datasets using Loader ##
 
@@ -46,6 +56,11 @@ title: FOSS4GUK Workshop Requirements
 ### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#loading-os-mastermap-os-opendata-and-other-os-gml-datasets-using-loader) ###
 
 ### Software/Hardware Requirements ###
+Device running windows PC as we will use Portable GIS (http://www.archaeogeek.com/portable-gis.html). 
+PortableGIS can be downloaded from here (https://my.pcloud.com/publink/show?code=kZIS0YZ7KSmHuXbNqbiX38AGUij7BBee9zy). 
+It is recommended that you download Portable GIS before the session and install it on your hard drive. It can run on a USB drive but performance may be slow. <br>
+Data for the workshop can be found here https://my.pcloud.com/publink/show?code=XZi3VbZ88KyhH4PqaFYGzyY7xRyxh8xn3My. It will also be avaiable on USB drive at the session. 
+
 
 ## qgis2web: webmaps without code ##
 
@@ -56,6 +71,8 @@ title: FOSS4GUK Workshop Requirements
 ### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#qgis2web-webmaps-without-code) ###
 
 ### Software/Hardware Requirements ###
+QGIS 2.14 
+
 
 ## Using to pgRouting to determine service location and allocate resources ##
 
@@ -66,6 +83,9 @@ title: FOSS4GUK Workshop Requirements
 ### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#using-to-pgrouting-to-determine-service-location-and-allocate-resources) ###
 
 ### Software/Hardware Requirements ###
+OSGEO-Live. <br>
+Data will be avaiable at the workshop and a link to the data will be provided.
+
 
 ## Visualising Arts and Humanities Data in QGIS ##
 
@@ -76,6 +96,7 @@ title: FOSS4GUK Workshop Requirements
 ### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#visualising-arts-and-humanities-data-in-qgis) ###
 
 ### Software Requirements ###
+QGIS 2.14 <br>
 Printed handouts with instructions can be provided; the data used can be downloaded from ShareGeo ahead of the workshop.
 
 ## Don’t be afraid to commit ##
@@ -87,7 +108,7 @@ Printed handouts with instructions can be provided; the data used can be downloa
 ### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#dont-be-afraid-to-commit) ###
 
 ### Software Requirements ###
-Printed handouts with instructions can be provided; the data used can be downloaded from ShareGeo ahead of the workshop.
+GitHub account and Git, python 2.7, preferrably with virtual env and pip, decent text editor (not word or notepad). QGIS 2.14
 
 ## The need for National level strategy for Open Principles in Geospatial ##
 
@@ -98,6 +119,8 @@ Printed handouts with instructions can be provided; the data used can be downloa
 ### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#the-need-for-national-level-strategy-for-open-principles-in-geospatial) ###
 
 ### Software Requirements ###
+None
+
 
 ## GeoFire — Realtime location queries with Firebase ##
 
@@ -108,6 +131,7 @@ Printed handouts with instructions can be provided; the data used can be downloa
 ### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#geofire--realtime-location-queries-with-firebase) ###
 
 ### Software Requirements ###
+OSGEO-Live
 
 ## A gentle introduction to GeoDjango and Openlayers 3 ##
 
@@ -118,7 +142,7 @@ Printed handouts with instructions can be provided; the data used can be downloa
 ### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#a-gentle-introduction-to-geodjango-and-openlayers-3) ###
 
 ### Software Requirements ###
-
+OSGEO-Live
 
 ## SaaSy maps - Using django-tenants and geodjango to provide webGIS Software-as-a-Service (SaaS) ##
 
@@ -142,3 +166,4 @@ Materials Provided: Paper and electronic copies of detailed handouts to be used 
 ### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#getting-started-with-openlayers) ###
 
 ### Software Requirements ###
+TBA
