@@ -23,7 +23,7 @@ Some sessions require additional software and data which you will need to downlo
 
 #### Software/Hardware Requirements ####
 
-Requires R v3.x which could come from OSGeo Live or elsewhere. Plus a number of addon packages to be listed later. Bring Your Own Data. Please see http://barryrowlingson.github.io/r-mapping-2016/
+Requires R v3.x which could come from OSGeo Live or elsewhere. Plus a number of addon packages to be listed later. Bring Your Own Data. Please see (http://barryrowlingson.github.io/r-mapping-2016/)
 
 - - -
 
@@ -62,10 +62,9 @@ QGIS 2.14, NodeJS
 #### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#loading-os-mastermap-os-opendata-and-other-os-gml-datasets-using-loader) ####
 
 #### Software/Hardware Requirements ####
-Device running windows PC as we will use Portable GIS (http://www.archaeogeek.com/portable-gis.html). 
-PortableGIS can be downloaded from here (https://my.pcloud.com/publink/show?code=kZIS0YZ7KSmHuXbNqbiX38AGUij7BBee9zy). 
+Device running windows PC as we will use Portable GIS.
 It is recommended that you download Portable GIS before the session and install it on your hard drive. It can run on a USB drive but performance may be slow. <br>
-Data for the workshop can be found here https://my.pcloud.com/publink/show?code=XZi3VbZ88KyhH4PqaFYGzyY7xRyxh8xn3My. It will also be avaiable on USB drive at the session. 
+Data for the workshop can be found [here](https://my.pcloud.com/publink/show?code=XZi3VbZ88KyhH4PqaFYGzyY7xRyxh8xn3My). It will also be avaiable on USB drive at the session. 
 
 - - -
 
