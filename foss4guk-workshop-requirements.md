@@ -5,15 +5,21 @@ title: FOSS4GUK Workshop Requirements
 
 # Making Maps in R #
 
-Barry Rowlingson Medical School, Lancaster University
+## Barry Rowlingson Medical School, Lancaster University ##
 
-Workshop (half day) / Target Audience: R users from beginner level up
+### Workshop (half day) / Target Audience: R users from beginner level up ###
+
+### Description ###
 
 The R statistical software system now has, alongside its GIS functions, lots of add-on packages for making maps - perhaps too many, with overlapping functionality and varying syntax. This workshop will be in three parts: first, I’ll introduce as many of the mapping packages as I can, then you will have time to play with them, and finally we’ll discuss the pros and cons of them all, to see if a single perfect mapping package could be derived or synthesized from the ones available. The session will cover web mapping as well as static and animated maps produced directly in R.
 
+### Software requirements ###
+
+blurb
+
 # Introduction to GeoServer #
 
-Ian Turton Astun Technology
+## Ian Turton Astun Technology ##
 
 Workshop (2 hours) / Target Audience: Novices
 
