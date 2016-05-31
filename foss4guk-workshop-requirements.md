@@ -12,8 +12,11 @@ OSGEO-live can be downlaoded [here](https://live.osgeo.org/en/index.html) and Po
 Some sessions require additional software and data which you will need to download and install on your device before the session. See details of what is requried for each workshop. <br>
 
 ## Making Maps in R ##
+
 #### Barry Rowlingson Medical School, Lancaster University ####
+
 #### Workshop (half day) / Target Audience: R users from beginner level up ####
+
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#making-maps-in-r) 
 
 #### Software/Hardware Requirements ####
