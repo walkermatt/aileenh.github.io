@@ -63,7 +63,7 @@ QGIS 2.14, NodeJS
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#loading-os-mastermap-os-opendata-and-other-os-gml-datasets-using-loader)
 
 #### Software/Hardware Requirements ####
-Device running windows PC as we will use Portable GIS.
+Device running windows as we will be using Portable GIS.
 It is recommended that you download Portable GIS before the session and install it on your hard drive. It can run on a USB drive but performance may be slow. <br>
 Data for the workshop can be found [here](https://my.pcloud.com/publink/show?code=XZi3VbZ88KyhH4PqaFYGzyY7xRyxh8xn3My). It will also be available on USB drive at the session. 
 
