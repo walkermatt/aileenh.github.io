@@ -33,7 +33,7 @@ Requires R v3.x which could come from OSGeo-Live or elsewhere. Plus a number of 
 
 #### Workshop (2 hours) / Target Audience: Novices ####
 
-#### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#introduction-to-geoserver) ####
+[Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#introduction-to-geoserver)
 
 #### Software/Hardware Requirements ####
 Ian will provide download pack on the Astun ftp site for attendees, OSGeo-Live can be used if you have virtual box installed.
@@ -46,7 +46,7 @@ Ian will provide download pack on the Astun ftp site for attendees, OSGeo-Live c
 
 #### Workshop (half day) / Target Audience: Beginners/Intermediate some knowledge of HTML/Javascript would be useful ####
 
-#### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#turning-data-into-information-using-open-source-tools) ####
+[Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#turning-data-into-information-using-open-source-tools)
 
 #### Software/Hardware Requirements ####
 QGIS 2.14, NodeJS
@@ -59,7 +59,7 @@ QGIS 2.14, NodeJS
 
 #### Workshop (2 hours) / Target Audience: People interested in loading OS datasets into PostgreSQL. ####
 
-#### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#loading-os-mastermap-os-opendata-and-other-os-gml-datasets-using-loader) ####
+[Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#loading-os-mastermap-os-opendata-and-other-os-gml-datasets-using-loader)
 
 #### Software/Hardware Requirements ####
 Device running windows PC as we will use Portable GIS.
@@ -74,7 +74,7 @@ Data for the workshop can be found [here](https://my.pcloud.com/publink/show?cod
 
 #### Workshop (2 hours) / Target Audience: QGIS users ####
 
-#### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#qgis2web-webmaps-without-code) ####
+[Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#qgis2web-webmaps-without-code)
 
 #### Software/Hardware Requirements ####
 QGIS 2.14 
@@ -87,7 +87,7 @@ QGIS 2.14
 
 #### Workshop (2 hours) / Target Audience: Beginner to intermediate QGIS and PostGIS users ####
 
-#### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#using-to-pgrouting-to-determine-service-location-and-allocate-resources) ####
+[Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#using-to-pgrouting-to-determine-service-location-and-allocate-resources) 
 
 #### Software/Hardware Requirements ####
 OSGEO-Live. <br>
@@ -101,7 +101,7 @@ Data will be available at the workshop and a link to the data will be provided.
 
 #### Workshop (2 hours) / Target Audience: Beginner to intermediate QGIS users, but also of interest to experts with little experience of the plugins used. ####
 
-#### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#visualising-arts-and-humanities-data-in-qgis) ####
+[Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#visualising-arts-and-humanities-data-in-qgis)
 
 #### Software Requirements ####
 QGIS 2.14 <br>
@@ -115,7 +115,7 @@ Printed handouts with instructions will be provided; the data used can be downlo
 
 #### Workshop (2 hours) / Target Audience: Beginners ####
 
-#### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#dont-be-afraid-to-commit) ####
+[Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#dont-be-afraid-to-commit)
 
 #### Software Requirements ####
 GitHub account and Git, python 2.7, preferably with virtual env and pip, decent text editor (not word or notepad). QGIS 2.14
@@ -128,7 +128,7 @@ GitHub account and Git, python 2.7, preferably with virtual env and pip, decent 
 
 #### Workshop (2 hours) / Target Audience: Representatives from central government, local authorities, academics, industry, SMEs , NGOs  etc in the UK ####
 
-#### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#the-need-for-national-level-strategy-for-open-principles-in-geospatial) ####
+[Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#the-need-for-national-level-strategy-for-open-principles-in-geospatial)
 
 #### Software Requirements ####
 None
@@ -141,7 +141,7 @@ None
 
 #### Workshop (2 hours) / Target Audience: Developers with appreciation of JS. ####
 
-#### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#geofire--realtime-location-queries-with-firebase) ####
+[Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#geofire--realtime-location-queries-with-firebase)
 
 #### Software Requirements ####
 OSGEO-Live
@@ -154,7 +154,7 @@ OSGEO-Live
 
 #### Workshop (half day) / Target Audience: People new to web-mapping ####
 
-#### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#a-gentle-introduction-to-geodjango-and-openlayers-3) ####
+[Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#a-gentle-introduction-to-geodjango-and-openlayers-3)
 
 #### Software Requirements ####
 OSGEO-Live
@@ -167,7 +167,7 @@ OSGEO-Live
 
 #### Workshop (half day) / Target Audience: People with a limited understanding of how django and openlayers work. ####
 
-#### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#saasy-maps---using-django-tenants-and-geodjango-to-provide-webgis-software-as-a-servicesaas) ####
+[Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#saasy-maps---using-django-tenants-and-geodjango-to-provide-webgis-software-as-a-servicesaas)
 
 #### Software Requirements ####
 Windows/Linux/Mac laptop with administrative permissions, internet connection, Postgres 9.4, PostGIS 2.2, Python 3.5, Django 1.8 and GeoDjango prerequisites (https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/).
@@ -182,7 +182,7 @@ Materials Provided: Paper and electronic copies of detailed handouts to be used 
 
 #### Workshop (half day) / Target Audience: Beginners looking for introduction to OpenLayers. They should be able to use a text editor, a browser and knowing basic use of command line. ####
 
-#### [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#getting-started-with-openlayers) ####
+[Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#getting-started-with-openlayers)
 
 #### Software Requirements ####
 TBA
