@@ -37,6 +37,7 @@ Requires R v3.x which could come from OSGeo-Live or elsewhere. Plus a number of 
 
 #### Software/Hardware Requirements ####
 Ian will provide download pack on the Astun ftp site for attendees, OSGeo-Live can be used if you have virtual box installed.
+Java also needs to be installed.
 
 - - -
 
