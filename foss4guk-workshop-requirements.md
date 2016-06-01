@@ -78,7 +78,7 @@ Data for the workshop can be found [here](https://my.pcloud.com/publink/show?cod
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#qgis2web-webmaps-without-code)
 
 #### Software/Hardware Requirements ####
-QGIS 2.14
+QGIS 2.14 <br>
 qgis2web (QGIS plugin)
 
 - - -
