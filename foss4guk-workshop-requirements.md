@@ -172,7 +172,7 @@ OSGEO-Live
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#saasy-maps---using-django-tenants-and-geodjango-to-provide-webgis-software-as-a-servicesaas)
 
 **Software Requirements** <br>
- Windows/Linux/Mac laptop with administrative permissions, internet connection, Postgres 9.4, PostGIS 2.2, Python 3.5, Django 1.8 and GeoDjango prerequisites [https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install](https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/).
+ Windows/Linux/Mac laptop with administrative permissions, internet connection, Postgres 9.4, PostGIS 2.2, Python 3.5, Django 1.8 and GeoDjango prerequisites ([https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install](https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/)).
 
 Materials Provided: Paper and electronic copies of detailed handouts to be used during the lecture portions of the workshop and github link containing the code used in the workshop.
 
