@@ -200,6 +200,6 @@ TBA
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#qgis-code-sprint)
 
 #### Software Requirements ####
-Please see (http://www.lutraconsulting.co.uk/blog/2016/05/31/qgis-code-sprint-foss4guk/)
+Please see [http://www.lutraconsulting.co.uk/blog/2016/05/31/qgis-code-sprint-foss4guk/](http://www.lutraconsulting.co.uk/blog/2016/05/31/qgis-code-sprint-foss4guk/)
 
  - - -
