@@ -1,9 +1,9 @@
 ---
 layout: workshops
-title: FOSS4GUK Workshop, COde Sprint & Hack Requirements
+title: FOSS4GUK Workshops, Code Sprint & Hack Requirements
 ---
 
-# FOS4GUK Workshop Requirements #
+# FOS4GUK Workshops, Code Sprint & Hack Requirements #
 
 If you are attending one of the workshops, code sprint or hack, you are required to bring your own device. <br>
 We will provide copies of OSGEO-Live on DVD and Portable GIS on USB drives for you to use at the session if required (please see details below). OSGEO-Live includes a copy of QGIS 2.14<br>
