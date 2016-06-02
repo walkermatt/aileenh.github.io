@@ -21,8 +21,7 @@ Some sessions require additional software and data which you will also need to d
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#making-maps-in-r) 
 
-**Software/Hardware Requirements**
-
+**Software/Hardware Requirements** <br>
 Requires R v3.x which could come from OSGeo-Live or elsewhere. Plus a number of add-on packages to be listed later. Bring Your Own Data. For more info please see [http://barryrowlingson.github.io/r-mapping-2016/](http://barryrowlingson.github.io/r-mapping-2016/)
 
 - - -
@@ -35,7 +34,7 @@ Requires R v3.x which could come from OSGeo-Live or elsewhere. Plus a number of 
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#introduction-to-geoserver)
 
-**Software/Hardware Requirements**
+**Software/Hardware Requirements** <br>
 Ian will provide download pack on the Astun ftp site for attendees, OSGeo-Live can be used if you have virtual box installed.
 Java 8 jre or jdk and either Oracle or openjdk.
 
