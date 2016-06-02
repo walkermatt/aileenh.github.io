@@ -203,3 +203,16 @@ TBA
 Please see [http://www.lutraconsulting.co.uk/blog/2016/05/31/qgis-code-sprint-foss4guk/](http://www.lutraconsulting.co.uk/blog/2016/05/31/qgis-code-sprint-foss4guk/)
 
  - - -
+
+## Humanitarian Hack with HXL ##
+
+#### Ant Scott MapAction ####
+
+#### Code Sprint / Hackathon ####
+
+[Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#humanitarian-hack-with-hxl)
+
+#### Software Requirements ####
+TBA
+
+ - - -
