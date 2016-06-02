@@ -7,7 +7,7 @@ title: FOSS4G UK Workshops, Code Sprint & Hack Requirements
 
 If you are attending one of the workshops, code sprints or hack at FOSS4G UK, you are required to bring your own device. <br>
 We will provide copies of OSGEO-Live on DVD and Portable GIS on USB drives for you to use at the sessions if required (please see details below). OSGEO-Live includes a copy of QGIS 2.14<br>
-However it might be useful for you to download the necessary softwareand install it  on your device  before the session. <br>
+However it might be useful for you to download the necessary software and install it  on your device  before the session. <br>
 OSGEO-live can be downloaded [here](https://live.osgeo.org/en/index.html) and Portable GIS can be downloaded [here](http://www.archaeogeek.com/portable-gis.html). <br>
 Some sessions require additional software and data which you will also need to download and install on your device before the session. See details of what is required for each workshop below. <br>
 
