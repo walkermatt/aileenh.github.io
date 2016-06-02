@@ -3,7 +3,7 @@ layout: workshops
 title: FOSS4G UK Workshops, Code Sprint & Hack Requirements
 ---
 
-# FOS4GUK 2016 Workshop, Code Sprint & Hack Requirements #
+## FOS4GUK 2016 Workshop, Code Sprint & Hack Requirements ##
 
 If you are attending one of the workshops, code sprints or hack at FOSS4G UK, you are required to bring your own device. <br>
 We will provide copies of OSGEO-Live on DVD and Portable GIS on USB drives for you to use at the sessions if required (please see details below). OSGEO-Live includes a copy of QGIS 2.14<br>
@@ -13,15 +13,15 @@ Some sessions require additional software and data which you will also need to d
 
 - - -
 
-## Making Maps in R ##
+### Making Maps in R ###
 
-#### Barry Rowlingson Medical School, Lancaster University ####
+**Barry Rowlingson Medical School, Lancaster University**
 
-#### Workshop (half day) / Target Audience: R users from beginner level up ####
+**Workshop (half day) / Target Audience: R users from beginner level up**
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#making-maps-in-r) 
 
-#### Software/Hardware Requirements ####
+**Software/Hardware Requirements**
 
 Requires R v3.x which could come from OSGeo-Live or elsewhere. Plus a number of add-on packages to be listed later. Bring Your Own Data. For more info please see [http://barryrowlingson.github.io/r-mapping-2016/](http://barryrowlingson.github.io/r-mapping-2016/)
 
