@@ -121,7 +121,7 @@ Printed handouts with instructions will be provided; the data used can be downlo
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#dont-be-afraid-to-commit)
 
 **Software Requirements** <br>
-GitHub account and Git, python 2.7, preferably with virtual env and pip, decent text editor (not word or notepad). QGIS 2.14
+GitHub account, decent text editor (not word or notepad). Atom is good. QGIS 2.14 would be good but not essential
 
 - - -
 
