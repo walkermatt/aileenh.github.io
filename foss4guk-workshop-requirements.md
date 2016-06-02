@@ -154,7 +154,7 @@ OSGEO-Live
 
 **Anusha Chickermane, Atlantic Geomatics Ltd.**
 
-** Workshop (half day) / Target Audience: People new to web-mapping**
+**Workshop (half day) / Target Audience: People new to web-mapping**
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#a-gentle-introduction-to-geodjango-and-openlayers-3)
 
