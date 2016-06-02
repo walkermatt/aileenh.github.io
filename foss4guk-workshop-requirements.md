@@ -62,8 +62,8 @@ QGIS 2.14, NodeJS
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#loading-os-mastermap-os-opendata-and-other-os-gml-datasets-using-loader)
 
-**Software/Hardware Requirements**<br>
-Device running windows as we will be using Portable GIS.<br>
+**Software/Hardware Requirements** <br>
+Device running windows as we will be using Portable GIS. <br>
 It is recommended that you download Portable GIS before the session and install it on your hard drive. It can run on a USB drive but performance may be slow. <br>
 Data for the workshop can be found [here](https://my.pcloud.com/publink/show?code=XZi3VbZ88KyhH4PqaFYGzyY7xRyxh8xn3My). It will also be available on USB drive at the session. 
 
@@ -77,7 +77,7 @@ Data for the workshop can be found [here](https://my.pcloud.com/publink/show?cod
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#qgis2web-webmaps-without-code)
 
-**Software/Hardware Requirements**<br>
+**Software/Hardware Requirements** <br>
 QGIS 2.14 <br>
 qgis2web (QGIS plugin)
 
@@ -91,7 +91,7 @@ qgis2web (QGIS plugin)
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#using-to-pgrouting-to-determine-service-location-and-allocate-resources) 
 
-**Software/Hardware Requirements**<br>
+**Software/Hardware Requirements** <br>
 OSGEO-Live. <br>
 Data will be available at the workshop and a link to the data will be provided.
 
@@ -105,7 +105,7 @@ Data will be available at the workshop and a link to the data will be provided.
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#visualising-arts-and-humanities-data-in-qgis)
 
-**Software Requirements**<br>
+**Software Requirements** <br>
 QGIS 2.14 <br>
 Printed handouts with instructions will be provided; the data used can be downloaded from ShareGeo ahead of the workshop.
 
@@ -119,7 +119,7 @@ Printed handouts with instructions will be provided; the data used can be downlo
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#dont-be-afraid-to-commit)
 
-**Software Requirements**<br>
+**Software Requirements** <br>
 GitHub account and Git, python 2.7, preferably with virtual env and pip, decent text editor (not word or notepad). QGIS 2.14
 
 - - -
@@ -132,7 +132,7 @@ GitHub account and Git, python 2.7, preferably with virtual env and pip, decent 
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#the-need-for-national-level-strategy-for-open-principles-in-geospatial)
 
-**Software Requirements**<br>
+**Software Requirements** <br>
 None
 
 - - -
@@ -145,7 +145,7 @@ None
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#geofire--realtime-location-queries-with-firebase)
 
-**Software Requirements**<br>
+**Software Requirements** <br>
 OSGEO-Live
 
 - - -
@@ -171,7 +171,7 @@ OSGEO-Live
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#saasy-maps---using-django-tenants-and-geodjango-to-provide-webgis-software-as-a-servicesaas)
 
-**Software Requirements**<br>
+**Software Requirements** <br>
 Windows/Linux/Mac laptop with administrative permissions, internet connection, Postgres 9.4, PostGIS 2.2, Python 3.5, Django 1.8 and GeoDjango prerequisites (https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/).
 
 Materials Provided: Paper and electronic copies of detailed handouts to be used during the lecture portions of the workshop and github link containing the code used in the workshop.
@@ -186,7 +186,7 @@ Materials Provided: Paper and electronic copies of detailed handouts to be used 
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#getting-started-with-openlayers)
 
-**Software Requirements**<br>
+**Software Requirements** <br>
 TBA
 
  - - -
@@ -199,7 +199,7 @@ TBA
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#qgis-code-sprint)
 
-**Software Requirements**<br>
+**Software Requirements** <br>
 Please see [http://www.lutraconsulting.co.uk/blog/2016/05/31/qgis-code-sprint-foss4guk/](http://www.lutraconsulting.co.uk/blog/2016/05/31/qgis-code-sprint-foss4guk/)
 
  - - -
@@ -212,7 +212,7 @@ Please see [http://www.lutraconsulting.co.uk/blog/2016/05/31/qgis-code-sprint-fo
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#humanitarian-hack-with-hxl)
 
-**Software Requirements**<br>
+**Software Requirements** <br>
 TBA
 
  - - -
