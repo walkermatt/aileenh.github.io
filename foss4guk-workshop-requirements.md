@@ -10,7 +10,7 @@ We will provide copies of OSGEO-Live on DVD and Portable GIS on USB drives for y
 However it might be useful for you to download the necessary software and install it  on your device  before the session. <br>
 OSGEO-live can be downloaded [here](https://live.osgeo.org/en/index.html) and Portable GIS can be downloaded [here](http://www.archaeogeek.com/portable-gis.html). <br>
 Some sessions require additional software and data which you will also need to download and install on your device before the session. <br> 
-See details of what is required for each workshop below. <br>
+See details of what is required for each session below. <br>
 
 - - -
 
