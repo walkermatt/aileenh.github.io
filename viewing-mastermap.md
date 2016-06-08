@@ -34,7 +34,7 @@ Launch QGIS from PortableGIS.
 
 Click on the elephant icon (Add PostGIS layer) in the left hand tool bar.
 
-Create a new connection with the following parameters.
+Create a new connection with the following parameters (the password is `pgis`).
 
 ![alt text](http://aileenh.github.io/images/image21.JPG "create postgis connection")
 
