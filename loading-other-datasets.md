@@ -8,19 +8,19 @@ Loading other data sets follows exactly the same method.
 
 ## VectorMap District ##
 
-To load VectorMap District you need to specify a suitable prep_cmd to prepare the GML for loading and a corresponding gfs file.
+To load VectorMap District you need to specify a suitable `prep_cmd` to prepare the GML for loading and a corresponding gfs file.
 
 Use the VMD GML preparation routine
-<br>
-prep_cmd=python prepgml4ogr.py $file_path prep_osgml.prep_vmd
+
+    prep_cmd=python prepgml4ogr.py $file_path prep_osgml.prep_vmd
 
 Use the specific VML gfs file tailored to loading into PostgreSQL
-<br>
-gfs_file=../gfs/vmd_postgres.gfs
 
-Remember to create a suitable schema in the database (e.g. vmd) and edit the ogr_cmd to load into that schema e.g. active_scheam=vmd
+    gfs_file=../gfs/vmd_postgres.gfs
 
-If you are using the same src_dir remember to remove the mastermap data from the folder and copy the new data into the folder.
+Remember to create a suitable schema in the database (e.g. `vmd`) and edit the `ogr_cmd` to load into that schema e.g. `active_schema=vmd`
+
+If you are using the same `src_dir` remember to remove the OSMM data from the folder and copy the new data into the folder.
 
 There is a small sample of VectorMap District data in the sample data supplied.
 

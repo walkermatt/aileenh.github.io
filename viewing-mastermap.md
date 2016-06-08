@@ -10,7 +10,7 @@ We can view the data in both PostgreSQL and visualise it in QGIS.
 
 Launch PostgreSQL from the Portable GIS control panel and connect to the test database.
 
-Expand the osmm_topo schema and click on the tables node you will see the following. (You may need to click on the fresh button if you can't see all the tables.)
+Expand the `osmm_topo` schema and click on the tables node you will see the following. (You may need to click on the fresh button if you can't see all the tables.)
 
 ![alt text](http://aileenh.github.io/images/image15.JPG "Mastermap tables in PostgreSQL")
 
@@ -60,9 +60,9 @@ Full details can be found in the [Ordnancy Survey OS MasterMap Topography Layer 
 
 However I have created some simple steps for you. 
 
-* Add the OSMasterMap.ttf font to your system 
-* Copy the folder osmmsymbols into the QGIS SVG directory (C:\usbgis\apps\qgis2\apps\qgis\svg)
-* Run the script os_stylrs_scripts.sql using PgAdmin
+* Add the `OSMasterMap.ttf` font to your system 
+* Copy the folder `osmmsymbols` into the QGIS SVG directory (`C:\usbgis\apps\qgis2\apps\qgis\svg`)
+* Run the script `os_styles_scripts.sql` using PgAdmin
 
 Once you have done that you can use the QGIS Project file supplied (mastermap.qgs). 
 

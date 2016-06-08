@@ -56,34 +56,34 @@ Enter the name of the schema in the name text box and then click on the OK butto
 ## Edit loader config file ##
 So now we have the database schema to load the data into we need to edit the configuration file for Loader. 
 
-There are only 7 configuration items for loader. 
+There are only 7 configuration items for Loader. 
 
-**src_dir**:
+**`src_dir`**:
 The directory containing your source files or an individual file. All supported files in the specified directory and it's descendants will be loaded.
 
-**out_dir**:
+**`out_dir`**:
 The directory used to store the translated data if writing to a file based format such as ESRI Shape, MapInfo TAB etc.
 
-**temp_dir**: The directory used to store temporary working files during loading.
+**`temp_dir`**: The directory used to store temporary working files during loading.
 
-**ogr_cmd**: 
+**`ogr_cmd`**: 
 The ogr2ogr command that will be used to load the data. Here you can specify the destination format and any associated settings (for example database connection details if you are writing to PostGIS).
 
-**prep_cmd**: 
-The command used to prepare the source data so it is suitable for loading with OGR, choose one that is suitable for your source data such as prep_osgml.prep_osmm_topo for OS MasterMap Topo.
+**`prep_cmd`**: 
+The command used to prepare the source data so it is suitable for loading with OGR, choose one that is suitable for your source data such as `prep_osgml.prep_osmm_topo` for OS MasterMap Topo.
 
-**post_cmd**: 
+**`post_cmd`**: 
 An optional command to be run once OGR has created it's output. Called once per file, useful for loading SQL dump files etc.
 
-**gfs_file**: OGR .gfs file used to define the feature attributes and geometry type of the features read from the GML again choose a suitable gfs file for your source data such as ../gfs/osmm_topo_postgres.gfs for loading OS MasterMap Topo into PostgreSQL.
+**`gfs_file`**: OGR `.gfs` file used to define the feature attributes and geometry type of the features read from the GML again choose a suitable gfs file for your source data such as `../gfs/osmm_topo_postgres.gfs` for loading OS MasterMap Topo into PostgreSQL.
 
 Once you have a configuration file set up for a specific data source you can save it and use it again and again.
 
-You will find there are a number of different gfs and prep_cmd file for different data types in the loader repository. The Loader wiki also has a section on [configuration examples](https://github.com/AstunTechnology/Loader/wiki/Configuration-examples).
+You will find there are a number of different gfs files and preparation commands (`prep_cmd`) files for different data types in the Loader repository. The Loader wiki also has a section on [configuration examples](https://github.com/AstunTechnology/Loader/wiki/Configuration-examples).
 
-In this workshop we will detail the configuration setting for loading OS MasterMap topographic layer in a PostgreSQL database.
+In this workshop we will detail the configuration setting for loading OS MasterMap Topographic layer in a PostgreSQL database.
 
-First we need to create the src_dir, out_dir and temp_dir. These can be any directory on your device e.g. c:\temp\loader\src_dir, c:\temp\loader\out_dir and c:\temp\loader\temp_dir
+First we need to create the `src_dir`, `out_dir` and `temp_dir`. These can be any directory on your device e.g. `c:\temp\loader\src_dir`, `c:\temp\loader\out_dir` and `c:\temp\loader\temp_dir`
 
 Now we need to edit the config file. 
 
@@ -95,36 +95,23 @@ This will fire up a text editor.
 
 Edit the configuration items as follows:
 
-**src_dir**
+    src_dir=c:\temp\loader\scr_dir
 
-scr_dir=c:\temp\loader\scr_dir
+    out_dir=c:\temp\loader\out_dir
 
-**out_dir**
+    tmp_dir=c:\temp\loader\temp_dir
 
-out_dir=c:\temp\loader\out_dir
+    ogr_cmd=ogr2ogr --config GML_EXPOSE_FID NO -append -skipfailures -f PostgreSQL PG:'dbname=temp active_schema=osmm_topo host=127.0.0.1 port=5434 user=pgis password=pgis' $file_path
 
-**tmp_dir**
+    prep_cmd=python prepgml4ogr.py $file_path prep_osgml.prep_osmm_topo
 
-tmp_dir=c:\temp\loader\temp_dir
+    gfs_file=../gfs/osmm_topo_postgres.gfs
 
-**ogr_cmd**
+    debug=False
 
-ogr_cmd=ogr2ogr --config GML_EXPOSE_FID NO -append -skipfailures -f PostgreSQL PG:'dbname=temp active_schema=osmm_topo host=127.0.0.1 port=5434 user=pgis password=pgis' $file_path
+Because we are loading the data into PostGIS we need to specify the host and port for the database as part of the `ogr_cmd` option. We are connecting to the database using the default database superuser for the portable gis which is `pgis` (with password `pgis`). The `active_schema` is where we wish to load the data into i.e. `osmm_topo`
 
-Because we are using the Portable GIS we need to specify the host and port for the database. We are connecting to the database using the default database superuser for the portable gis which is pgis (with password pgis). 
-
-The active_schema is where we wish to load the data into i.e. osmm_topo
-
-**prep_cmd**
-
-prep_cmd=python prepgml4ogr.py $file_path prep_osgml.prep_osmm_topo
-
-**gfs_file**
-
-gfs_file=../gfs/osmm_topo_postgres.gfs
-
-
-You can leave debug to be False but if you run into problems you can set it to true to help identify where the problem is.
+You can leave `debug` to be `False` but if you run into problems you can set it to `True` to help identify where the problem is as it prints more information while loading and does not delete any temporary files.
 
 Save your changed and exit the editor.
 
